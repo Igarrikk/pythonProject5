@@ -1,1 +1,1 @@
-# pythonProject5 Практическая работа №5
+# pythonProject5
